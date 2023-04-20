@@ -1,0 +1,22 @@
+<?php
+
+$variavel = 10;
+
+echo $variavel;
+
+
+// localhost/C:/xampp/htdocs/cauabguimaraes/index.php
+
+if ($variavel < 20) {
+    echo "é maior que 20";
+} else {
+    echo "é maior que 20";
+}
+
+echo "<br><br>";
+
+
+for($i=0; $i<=10; $i++) {
+    echo $i. " ";
+}    
+?>
